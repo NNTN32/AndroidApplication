@@ -1,5 +1,6 @@
 {
 "posts": {
+[
    {
      "id" : 1,
      "title" : "Cách nấu cá kho thớm"
@@ -17,8 +18,8 @@
      "body": "Giới thiệu cơ bản."
      "base64Image": "" 
    }
- },
-
+ }
+]
 "users":{
    {
      "username" : "test",
