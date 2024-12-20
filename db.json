@@ -1,0 +1,34 @@
+{
+"posts": {
+   {
+     "id" : 1,
+     "title" : "Cách nấu cá kho thớm"
+     "body" : "Hướng dẫn chi tiết cách nấu món cá kho thớm."
+   },
+   {
+     "id" : 2,
+     "title" : "Du lịch Hà Nội"
+     "body" : "kinh nghiệm du lịch Hà Nội."
+     "base64Image": ""
+   },
+   {
+     "id" : 3,
+     "title": "Hướng dẫn build App trên Flutter"
+     "body": Giới thiệu cơ bản."
+     "base64Image": "" 
+   }
+ },
+
+"users":{
+   {
+     "username" : "test",
+     "password" : "123",
+     "fullname" : "NNTN"
+   },
+   {
+     "username" : "test1",
+     "password" : "456",
+     "fullname" : "mk3-c2"
+   },
+}
+}
