@@ -1,5 +1,5 @@
 {
-  "post": {[
+  "posts": [
     {
       "id": 1,
       "title": "Cach nau pho truyen thong",
@@ -15,17 +15,17 @@
       "title": "Huong dan su dung Flutter",
       "body": "Gioi thieu va huong dan co ban va cach su dung flutter de phat trien ung dung di dong."
     }
-  ]},
+  ],
   "users": [
     {
-      "username": "hoai",
-      "password": "12345",
-      "fullname": "Nong thi thu hoai"
+      "username": "test",
+      "password": "123",
+      "fullname": "T1"
     },
     {
-      "username": "Thu",
-      "password": "12345",
-      "fullname": "Nong thi Thu"
+      "username": "test1",
+      "password": "456",
+      "fullname": "T2"
     }
   ]
 }
