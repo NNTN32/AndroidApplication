@@ -10,13 +10,12 @@
      "id" : 2,
      "title" : "Du lịch Hà Nội"
      "body" : "kinh nghiệm du lịch Hà Nội."
-     "base64Image": ""
    },
    {
      "id" : 3,
      "title": "Hướng dẫn build App trên Flutter"
      "body": "Giới thiệu cơ bản."
-     "base64Image": "" 
+    
    }
    ]
  },
